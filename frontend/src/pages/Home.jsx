@@ -195,6 +195,7 @@ export default function Home() {
         <span>QuizLy</span>
         <div style={{fontSize: '0.9rem', color: '#64748b'}}>Dashboard</div>
       </Navbar>
+      
 
       <MainContent>
         <Title>¿Qué deseas hacer hoy?</Title>
