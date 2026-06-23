@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcf8f9a4; /* Color de fondo base */
+}
+
+#root {
+  width: 100%; /* Ocupa todo el ancho */
+  margin: 0;
+  border-inline: none; /* Elimina la línea lateral */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

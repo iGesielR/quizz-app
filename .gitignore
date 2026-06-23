@@ -1,0 +1,10 @@
+# Ignorar dependencias
+**/node_modules/
+
+# Ignorar variables de entorno con credenciales secretas
+**/local.env
+**/.env
+**/.env.local
+
+# Archivos de producción o compilación de Vite
+**/dist/
